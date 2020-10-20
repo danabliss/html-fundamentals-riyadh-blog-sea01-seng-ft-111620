@@ -7,7 +7,7 @@ html, body {
 }
 
 body {
-  background: #B3FF6B center no-repeat;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%) center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
